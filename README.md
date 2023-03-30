@@ -41,10 +41,6 @@ An example of DID document of `did:ti:3K9wuWcR9R3ZL1EaYjkHojBHTD7BCDVCPxTMr2QMvH
        "did:ti:3K9wuWcR9R3ZL1EaYjkHojBHTD7BCDVCPxTMr2QMvH1u711a3N9eS4W"
   ],
   "service": []
-    "proof": {
-    "type": "Secp256k1",
-    "creator": "did:ti:3K9wuWcR9R3ZL1EaYjkHojBHTD7BCDVCPxTMr2QMvH1u711a3N9eS4W",
-    "signatureValue": "QNB13Y7Q9...1tzjn4w=="}
 }
 ```
 
